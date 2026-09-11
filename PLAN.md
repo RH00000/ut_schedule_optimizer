@@ -115,9 +115,9 @@ Default weights (tunable, exposed as CLI flags later):
 
 | Weight    | Default | Meaning                                  |
 |-----------|---------|------------------------------------------|
-| `W_WALK`  | 1.0     | Penalty on the summed gap cost.          |
+| `W_WALK`  | 0.5     | Penalty on the summed gap cost.          |
 | `W_GRADE` | 1.0     | Penalty for lower expected grade quality.|
-| `W_RMP`   | 0.5     | Penalty for lower RateMyProfessor rating.|
+| `W_RMP`   | 1.0     | Penalty for lower RateMyProfessor rating.|
 
 ### Term definitions
 

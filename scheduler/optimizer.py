@@ -7,9 +7,9 @@ from itertools import product
 from scheduler.distance import gap_cost, walking_time
 from scheduler.models import Course, Schedule, Section
 
-W_WALK = 1.0
+W_WALK = 0.5
 W_GRADE = 1.0
-W_RMP = 0.5
+W_RMP = 1.0
 
 DEFAULT_AVG_GPA = 3.0  # neutral fallback when grade data is missing
 DEFAULT_RMP_RATING = 3.5  # neutral fallback when RMP data is missing
