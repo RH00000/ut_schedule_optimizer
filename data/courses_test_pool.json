@@ -1,0 +1,229 @@
+[
+  {
+    "course_id": "CS 429",
+    "title": "Computer Organization and Architecture",
+    "sections": [
+      {
+        "section_id": "51005",
+        "course_id": "CS 429",
+        "instructor": "Okonkwo, Grace",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 480, "end_min": 570, "building": "GDC", "room": "4.302" }
+        ]
+      },
+      {
+        "section_id": "51010",
+        "course_id": "CS 429",
+        "instructor": "Feng, Li",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 650, "building": "GDC", "room": "2.216" }
+        ]
+      },
+      {
+        "section_id": "51015",
+        "course_id": "CS 429",
+        "instructor": "Bhatt, Rahul",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 710, "building": "GDC", "room": "2.216" }
+        ]
+      },
+      {
+        "section_id": "51020",
+        "course_id": "CS 429",
+        "instructor": "Reyes, Marco",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 540, "end_min": 590, "building": "GDC", "room": "2.216" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "M 362K",
+    "title": "Probability I",
+    "sections": [
+      {
+        "section_id": "53200",
+        "course_id": "M 362K",
+        "instructor": "Novak, Elena",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 750, "end_min": 840, "building": "PMA", "room": "4.102" }
+        ]
+      },
+      {
+        "section_id": "53205",
+        "course_id": "M 362K",
+        "instructor": "Alvarez, Sofia",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 720, "end_min": 770, "building": "PMA", "room": "5.104" }
+        ]
+      },
+      {
+        "section_id": "53210",
+        "course_id": "M 362K",
+        "instructor": "Kim, David",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 710, "building": "PMA", "room": "5.104" }
+        ]
+      },
+      {
+        "section_id": "53215",
+        "course_id": "M 362K",
+        "instructor": "Pruitt, Dana",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 650, "building": "PMA", "room": "5.104" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "BIO 311C",
+    "title": "Introductory Biology I",
+    "sections": [
+      {
+        "section_id": "48500",
+        "course_id": "BIO 311C",
+        "instructor": "Delgado, Rosa",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 570, "end_min": 660, "building": "WEL", "room": "1.316" },
+          { "days": ["TH"], "start_min": 780, "end_min": 890, "building": "SZB", "room": "4.110" }
+        ]
+      },
+      {
+        "section_id": "48505",
+        "course_id": "BIO 311C",
+        "instructor": "Tran, Michael",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 650, "building": "WEL", "room": "1.308" },
+          { "days": ["W"], "start_min": 780, "end_min": 890, "building": "GAR", "room": "0.128" }
+        ]
+      },
+      {
+        "section_id": "48510",
+        "course_id": "BIO 311C",
+        "instructor": "Tran, Michael",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 650, "building": "WEL", "room": "1.308" },
+          { "days": ["F"], "start_min": 780, "end_min": 890, "building": "GAR", "room": "0.128" }
+        ]
+      },
+      {
+        "section_id": "48515",
+        "course_id": "BIO 311C",
+        "instructor": "Park, Helen",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 720, "end_min": 770, "building": "WEL", "room": "1.308" },
+          { "days": ["W"], "start_min": 780, "end_min": 890, "building": "WEL", "room": "1.308" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "SDS 321",
+    "title": "Probability and Statistics for Data Science",
+    "sections": [
+      {
+        "section_id": "62100",
+        "course_id": "SDS 321",
+        "instructor": "Iyer, Priya",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 710, "building": "UTC", "room": "3.104" },
+          { "days": ["W"], "start_min": 780, "end_min": 830, "building": "FAC", "room": "101B" }
+        ]
+      },
+      {
+        "section_id": "62105",
+        "course_id": "SDS 321",
+        "instructor": "Iyer, Priya",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 710, "building": "UTC", "room": "3.104" },
+          { "days": ["F"], "start_min": 780, "end_min": 830, "building": "FAC", "room": "101B" }
+        ]
+      },
+      {
+        "section_id": "62110",
+        "course_id": "SDS 321",
+        "instructor": "Okafor, Daniel",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 750, "end_min": 840, "building": "UTC", "room": "3.124" },
+          { "days": ["TH"], "start_min": 840, "end_min": 930, "building": "UTC", "room": "3.124" }
+        ]
+      },
+      {
+        "section_id": "62115",
+        "course_id": "SDS 321",
+        "instructor": "Weiss, Aaron",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 540, "end_min": 590, "building": "UTC", "room": "1.118" },
+          { "days": ["M"], "start_min": 600, "end_min": 710, "building": "UTC", "room": "1.118" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "HIS 315K",
+    "title": "The United States, 1492-1865",
+    "sections": [
+      {
+        "section_id": "39400",
+        "course_id": "HIS 315K",
+        "instructor": "Boone, Clara",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 660, "end_min": 750, "building": "GAR", "room": "0.102" }
+        ]
+      },
+      {
+        "section_id": "39405",
+        "course_id": "HIS 315K",
+        "instructor": "Silva, Marcus",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 720, "end_min": 770, "building": "RLP", "room": "0.106" }
+        ]
+      },
+      {
+        "section_id": "39410",
+        "course_id": "HIS 315K",
+        "instructor": "Silva, Marcus",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 710, "building": "RLP", "room": "0.106" }
+        ]
+      },
+      {
+        "section_id": "39415",
+        "course_id": "HIS 315K",
+        "instructor": "Hoffman, Ted",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 650, "building": "JGB", "room": "2.202" }
+        ]
+      },
+      {
+        "section_id": "39420",
+        "course_id": "HIS 315K",
+        "instructor": "Boone, Clara",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 930, "end_min": 1020, "building": "GAR", "room": "0.102" }
+        ]
+      }
+    ]
+  }
+]

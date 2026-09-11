@@ -1,0 +1,3 @@
+# v1 runs on the standard library only
+# Add and pin here if a future version needs a solver library, a scraping
+# stack, or anything else beyond stdlib.

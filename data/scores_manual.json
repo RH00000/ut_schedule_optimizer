@@ -1,0 +1,95 @@
+{
+  "CS 314|Scott, Michael": {
+    "grade": { "a_rate": 0.41, "avg_gpa": 3.12, "n": 220 },
+    "rmp": { "rating": 4.6, "difficulty": 3.8, "n": 88 }
+  },
+  "CS 314|Chandra, Priya": {
+    "grade": { "a_rate": 0.33, "avg_gpa": 2.85, "n": 140 },
+    "rmp": { "rating": 3.9, "difficulty": 4.1, "n": 41 }
+  },
+  "M 340L|Nguyen, Anh": {
+    "grade": { "a_rate": 0.52, "avg_gpa": 3.35, "n": 310 },
+    "rmp": { "rating": 4.1, "difficulty": 3.0, "n": 63 }
+  },
+  "RHE 306|Dixon, Karen": {
+    "grade": { "a_rate": 0.6, "avg_gpa": 3.55, "n": 95 },
+    "rmp": { "rating": 4.8, "difficulty": 2.4, "n": 52 }
+  },
+  "PHY 303L|Ramirez, Elena": {
+    "grade": { "a_rate": 0.38, "avg_gpa": 3.2, "n": 175 },
+    "rmp": { "rating": 4.3, "difficulty": 3.5, "n": 47 }
+  },
+
+  "CS 429|Okonkwo, Grace": {
+    "grade": { "a_rate": 0.58, "avg_gpa": 3.62, "n": 120 },
+    "rmp": { "rating": 4.7, "difficulty": 3.4, "n": 61 }
+  },
+  "CS 429|Feng, Li": {
+    "grade": { "a_rate": 0.45, "avg_gpa": 3.33, "n": 180 },
+    "rmp": { "rating": 4.2, "difficulty": 3.5, "n": 54 }
+  },
+  "CS 429|Bhatt, Rahul": {
+    "grade": { "a_rate": 0.32, "avg_gpa": 3.05, "n": 155 },
+    "rmp": { "rating": 3.6, "difficulty": 3.9, "n": 37 }
+  },
+  "CS 429|Reyes, Marco": {
+    "grade": { "a_rate": 0.19, "avg_gpa": 2.68, "n": 140 },
+    "rmp": { "rating": 3.1, "difficulty": 4.3, "n": 45 }
+  },
+
+  "M 362K|Novak, Elena": {
+    "grade": { "a_rate": 0.56, "avg_gpa": 3.58, "n": 175 },
+    "rmp": { "rating": 4.6, "difficulty": 2.9, "n": 49 }
+  },
+  "M 362K|Alvarez, Sofia": {
+    "grade": { "a_rate": 0.44, "avg_gpa": 3.30, "n": 260 },
+    "rmp": { "rating": 4.2, "difficulty": 3.1, "n": 58 }
+  },
+  "M 362K|Kim, David": {
+    "grade": { "a_rate": 0.30, "avg_gpa": 3.00, "n": 210 },
+    "rmp": { "rating": 3.5, "difficulty": 3.7, "n": 40 }
+  },
+  "M 362K|Pruitt, Dana": {
+    "grade": { "a_rate": 0.20, "avg_gpa": 2.70, "n": 165 },
+    "rmp": { "rating": 3.2, "difficulty": 4.0, "n": 31 }
+  },
+
+  "BIO 311C|Delgado, Rosa": {
+    "grade": { "a_rate": 0.57, "avg_gpa": 3.60, "n": 280 },
+    "rmp": { "rating": 4.7, "difficulty": 2.7, "n": 65 }
+  },
+  "BIO 311C|Tran, Michael": {
+    "grade": { "a_rate": 0.43, "avg_gpa": 3.28, "n": 300 },
+    "rmp": { "rating": 4.1, "difficulty": 3.3, "n": 72 }
+  },
+  "BIO 311C|Park, Helen": {
+    "grade": { "a_rate": 0.31, "avg_gpa": 3.02, "n": 240 },
+    "rmp": { "rating": 3.6, "difficulty": 3.6, "n": 38 }
+  },
+
+  "SDS 321|Iyer, Priya": {
+    "grade": { "a_rate": 0.55, "avg_gpa": 3.55, "n": 190 },
+    "rmp": { "rating": 4.6, "difficulty": 3.0, "n": 43 }
+  },
+  "SDS 321|Okafor, Daniel": {
+    "grade": { "a_rate": 0.32, "avg_gpa": 3.08, "n": 160 },
+    "rmp": { "rating": 3.7, "difficulty": 3.4, "n": 29 }
+  },
+  "SDS 321|Weiss, Aaron": {
+    "grade": { "a_rate": 0.18, "avg_gpa": 2.65, "n": 145 },
+    "rmp": { "rating": 3.1, "difficulty": 4.0, "n": 33 }
+  },
+
+  "HIS 315K|Boone, Clara": {
+    "grade": { "a_rate": 0.57, "avg_gpa": 3.60, "n": 210 },
+    "rmp": { "rating": 4.6, "difficulty": 2.5, "n": 47 }
+  },
+  "HIS 315K|Silva, Marcus": {
+    "grade": { "a_rate": 0.42, "avg_gpa": 3.25, "n": 230 },
+    "rmp": { "rating": 3.9, "difficulty": 2.8, "n": 35 }
+  },
+  "HIS 315K|Hoffman, Ted": {
+    "grade": { "a_rate": 0.20, "avg_gpa": 2.72, "n": 195 },
+    "rmp": { "rating": 3.2, "difficulty": 3.2, "n": 28 }
+  }
+}

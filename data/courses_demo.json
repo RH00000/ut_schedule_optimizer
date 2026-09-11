@@ -1,0 +1,120 @@
+[
+  {
+    "course_id": "CS 314",
+    "title": "Data Structures",
+    "sections": [
+      {
+        "section_id": "50825",
+        "course_id": "CS 314",
+        "instructor": "Scott, Michael",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 660, "building": "GDC", "room": "2.216" }
+        ]
+      },
+      {
+        "section_id": "50830",
+        "course_id": "CS 314",
+        "instructor": "Chandra, Priya",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 570, "end_min": 660, "building": "JGB", "room": "2.324" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "M 340L",
+    "title": "Matrices and Matrix Calculations",
+    "sections": [
+      {
+        "section_id": "54010",
+        "course_id": "M 340L",
+        "instructor": "Nguyen, Anh",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 540, "end_min": 590, "building": "RLP", "room": "0.112" }
+        ]
+      },
+      {
+        "section_id": "54015",
+        "course_id": "M 340L",
+        "instructor": "Nguyen, Anh",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 710, "building": "UTC", "room": "1.104" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "RHE 306",
+    "title": "Rhetoric and Writing",
+    "sections": [
+      {
+        "section_id": "42160",
+        "course_id": "RHE 306",
+        "instructor": "Dixon, Karen",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 660, "end_min": 750, "building": "WEL", "room": "2.256" }
+        ]
+      },
+      {
+        "section_id": "42165",
+        "course_id": "RHE 306",
+        "instructor": "Okafor, Daniel",
+        "mode": "online_async",
+        "meetings": []
+      }
+    ]
+  },
+  {
+    "course_id": "PHY 303L",
+    "title": "Engineering Physics II",
+    "sections": [
+      {
+        "section_id": "56050",
+        "course_id": "PHY 303L",
+        "instructor": "Ramirez, Elena",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 840, "end_min": 930, "building": "UTC", "room": "2.102" }
+        ]
+      },
+      {
+        "section_id": "56055",
+        "course_id": "PHY 303L",
+        "instructor": "Ramirez, Elena",
+        "mode": "in_person",
+        "_comment": "MISS fixture: back-to-back with FIX 101 across the real campus diameter (SZB -> ETC, ~17 min walk). Anchored to looked-up building coordinates, not an estimate.",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 660, "end_min": 735, "building": "ETC", "room": "2.108" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "FIX 101",
+    "title": "MISS fixture (throwaway): SZB class ending right before PHY 303L at ETC",
+    "_comment": "Exists only to force a genuine too-tight transition. Its in-person section ends at SZB exactly when PHY 303L 56055 starts at ETC (0-minute scheduled gap); SZB and ETC are opposite corners of campus, ~17 min apart by the looked-up coordinates, so slack = 0 + 15 - 17 = -2 (MISS). The online_async alternative keeps Scott's CS 314 combinations feasible.",
+    "sections": [
+      {
+        "section_id": "90001",
+        "course_id": "FIX 101",
+        "instructor": "Staff",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 600, "end_min": 660, "building": "SZB", "room": "4.110" }
+        ]
+      },
+      {
+        "section_id": "90002",
+        "course_id": "FIX 101",
+        "instructor": "Staff",
+        "mode": "online_async",
+        "meetings": []
+      }
+    ]
+  }
+]

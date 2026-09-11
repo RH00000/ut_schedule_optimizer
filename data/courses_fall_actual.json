@@ -1,0 +1,79 @@
+[
+  {
+    "course_id": "NSC 109",
+    "title": "CNS Foundations",
+    "sections": [
+      {
+        "section_id": "50090",
+        "course_id": "NSC 109",
+        "instructor": "Staff",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T"], "start_min": 840, "end_min": 900, "building": "PMA", "room": "5.126" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "SDS 322E",
+    "title": "Elements of Data Science",
+    "sections": [
+      {
+        "section_id": "62925",
+        "course_id": "SDS 322E",
+        "instructor": "Staff",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 720, "end_min": 780, "building": "UTC", "room": "3.104" },
+          { "days": ["W"], "start_min": 900, "end_min": 960, "building": "FAC", "room": "101B" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "M 325K",
+    "title": "Discrete Mathematics",
+    "sections": [
+      {
+        "section_id": "58915",
+        "course_id": "M 325K",
+        "instructor": "Staff",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W", "F"], "start_min": 780, "end_min": 840, "building": "PMA", "room": "5.118" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "UGS 302",
+    "title": "Music and Psychology",
+    "sections": [
+      {
+        "section_id": "67485",
+        "course_id": "UGS 302",
+        "instructor": "Staff",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["T", "TH"], "start_min": 930, "end_min": 1020, "building": "GAR", "room": "2.124" }
+        ]
+      }
+    ]
+  },
+  {
+    "course_id": "M 427J",
+    "title": "Differential Equations with Linear Algebra",
+    "sections": [
+      {
+        "section_id": "58985",
+        "course_id": "M 427J",
+        "instructor": "Staff",
+        "mode": "in_person",
+        "meetings": [
+          { "days": ["M", "W"], "start_min": 960, "end_min": 1020, "building": "ETC", "room": "2.108" },
+          { "days": ["T", "TH"], "start_min": 1020, "end_min": 1110, "building": "ETC", "room": "2.108" }
+        ]
+      }
+    ]
+  }
+]
