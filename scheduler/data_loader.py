@@ -50,7 +50,7 @@ def load_courses(path: Path | None = None) -> list[Course]:
         courses.append(Course(course_id=c["course_id"], title=c["title"], sections=sections))
     return courses
 
-
+# will update more in future
 def validate(courses: list[Course], buildings: dict) -> None:
     """Raise ValueError on any structural problem in the loaded data."""
     for course in courses:
