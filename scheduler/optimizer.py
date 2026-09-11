@@ -37,7 +37,9 @@ def _has_conflict(sections: tuple[Section, ...]) -> bool:
 
 
 def _gap_cost_total(sections: tuple[Section, ...], buildings: dict) -> float:
-    """Sum gap_cost over every same-day back-to-back transition."""
+    """Sum gap_cost over every same-day back-to-back transition.
+       walks thruough consecutive pairs computing gap_cost for each 
+       back to back transition, then adding it all up"""
     by_day: dict[str, list] = {}
     for section in sections:
         for meeting in _timed_meetings(section):
@@ -56,7 +58,7 @@ def _gap_cost_total(sections: tuple[Section, ...], buildings: dict) -> float:
 def _clamp(value: float, low: float, high: float) -> float:
     return max(low, min(high, value))
 
-
+# converts gpa to cost 
 def _grade_cost(section: Section, scores: dict) -> float:
     entry = scores.get(f"{section.course_id}|{section.instructor}", {})
     avg_gpa = entry.get("grade", {}).get("avg_gpa", DEFAULT_AVG_GPA)
@@ -80,6 +82,7 @@ def optimize(
 ) -> list[Schedule]:
     """Brute-force every one-section-per-course combination; return the best top_n."""
     feasible: list[Schedule] = []
+    print("total combinations:", len(list(product(*(c.sections for c in courses)))))
     for combo in product(*(course.sections for course in courses)):
         if _has_conflict(combo):
             continue
