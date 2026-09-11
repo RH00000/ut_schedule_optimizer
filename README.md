@@ -62,4 +62,5 @@ All data is hand-entered for this version. Only same-day, back-to-back adjacenci
 
 ## Future work
 
-A live scraping pipeline for grade distributions, the course schedule, and RMP data. NLP sentiment analysis on RMP free-text reviews rather than just the star rating. Semester-long optimization that accounts for workload balance and exam clustering, not just a single weekly grid. Right now, all the courses that is passed in are treated as mandatory, we want to make a "Requirement" section for the courses to distinguish between desuried courses and alternatives.
+- A live scraping pipeline for grade distributions, the course schedule, and RMP data. NLP sentiment analysis on RMP free-text reviews rather than just the star rating. Semester-long optimization that accounts for workload balance and exam clustering, not just a single weekly grid. 
+- Right now, all the courses that is passed in are treated as mandatory, we want to make a "Requirement" section for the courses to distinguish between desuried courses and alternatives.
